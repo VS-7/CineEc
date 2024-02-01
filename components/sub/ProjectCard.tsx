@@ -5,6 +5,7 @@ interface Props {
   src: string;
   title: string;
   description: string;
+  link: string;
 }
 
 const ProjectCard = ({ src, title, description }: Props) => {
