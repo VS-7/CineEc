@@ -7,14 +7,14 @@ const Projects = () => {
       className="flex flex-col items-center justify-center py-20"
       id="projects"
     >
-      <h1 className="text-[40px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
-        Planos
+      <h1 className="text-[30px] font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-20">
+        Ao inscrever-se agora, você terá acesso garantido a:
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
           src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Plano Mensal R$ 29,90"
+          description="Você terá acesso a: HBO Max(R$34,90) + Prime Video(R$14,90) + Disney Plus e Star+(R$ 55,90)"
         />
         <ProjectCard
           src="/CardImage.png"
