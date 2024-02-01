@@ -44,7 +44,7 @@ const Encryption = () => {
           <h1 className="Welcome-text text-[12px]">Criptografia</h1>
         </div>
       </div>
-      <div className="absolute z-[20] bottom-[10px] px-[8px]">
+      <div className="absolute z-[20] bottom-[5px] px-[8px]">
         <div className="cursive text-[20px] font-medium text-center text-gray-300">
           Seus dados com criptografia de ponta a ponta
         </div>
