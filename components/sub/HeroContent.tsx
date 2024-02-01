@@ -46,13 +46,13 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[400px]"
         >
-          Obtenha acesso a todas as melhores ferramentas do mercado de dropshipping com 98% de desconto.
+          Obtenha acesso as melhores plataformas de stream oficiais de filmes e séries com 70% de desconto.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Clique para economizar 90%!
+          CLIQUE PARA ECONOMIZAR 70%
         </motion.a>
       </div>
 
