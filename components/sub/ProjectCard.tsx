@@ -22,9 +22,11 @@ const ProjectCard = ({ src, title, description }: Props) => {
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
         <p className="mt-2 text-gray-300">{description}</p>
         
-        <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
-          Saiba mais
-        </button>
+       <a href={link} target="_blank" rel="noopener noreferrer">
+          <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+            Saiba mais
+          </button>
+        </a>
       </div>
     </div>
   );
