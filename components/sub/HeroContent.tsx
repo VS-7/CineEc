@@ -33,10 +33,10 @@ const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-4xl font-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Obtenha R$ 200,00 em plataformas de stream
+            Obtenha R$ 100,00 em plataformas de stream
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
-              por apenas R$ 29,90.{" "}
+              por apenas R$ 16,90.{" "}
             </span>
             
           </span>
@@ -46,14 +46,14 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[400px]"
         >
-          Obtenha acesso as melhores plataformas de stream oficiais de filmes e séries com 70% de desconto.
+          Obtenha acesso as melhores plataformas de stream oficiais de filmes e séries com 84% de desconto.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
           href="#projects"
         >
-          CLIQUE PARA ECONOMIZAR 70%
+          CLIQUE PARA ECONOMIZAR 84%
         </motion.a>
       </div>
 
