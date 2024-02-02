@@ -32,7 +32,7 @@ const ProjectCard = ({ src, title, description, projectLink }: Props) => {
           rel="noopener noreferrer"
           className="block mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded cursor-pointer"
         >
-          Economize 70% AGORA
+          COMPRAR AGORA
         </a>
       </div>
     </div>
