@@ -37,7 +37,7 @@ const ProjectCard = ({ src, title, description, projectLink }: Props) => {
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
           href="#projects"
         >
-          CLIQUE PARA ECONOMIZAR 70%
+          Economize 70$ AGORA
         </motion.a>
       </div>
     </div>
