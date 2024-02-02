@@ -13,19 +13,19 @@ const Projects = () => {
         <ProjectCard
           src="/Combo.png"
           title="Combo Mensal - R$ 29,90"
-          description="Tenha acesso as plataformas HBO Max(R$ 34,90) + DisneyPlus + Star+ (R$ 55,90) + Prime Vídeo (R$14,90)"
+          description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
           projectLink="/google.com" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
           src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="ChatGPT Plus - R$ 34,90"
+          description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
           projectLink="/google.com" // Substitua com o link real para o segundo projeto
         />
         <ProjectCard
           src="/SpaceWebsite.png"
-          title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          title="Canva Pro - R$ 6,90"
+          description="Tenha acesso ao Canva Pro (R$ 34,90)"
           projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
         />
       </div>
