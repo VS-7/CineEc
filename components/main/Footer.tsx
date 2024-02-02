@@ -20,7 +20,7 @@ const Footer = () => {
                 <div className="min-w-[200px] h-auto flex flex-col items-center justify-start">
                     <div className="font-bold text-[16px]">Social Media</div>
                     <p className="flex flex-row items-center my-[15px] cursor-pointer">
-                        <FaYoutube />
+                        <RxInstagramLogo />
                         <span className="text-[15px] ml-[6px]">Instagram</span>    
                     </p>
                 </div>
