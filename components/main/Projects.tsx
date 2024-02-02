@@ -11,7 +11,7 @@ const Projects = () => {
         <ProjectCard
           src="/Combo.png"
           title="Combo Mensal - R$ 29,90"
-          description="HBO Max(R$ 34,90) + DisneyPlus + Star+ (R$ 55,90) + Prime Vídeo (R$14,90)"
+          description="Tenha acesso as plataformas HBO Max(R$ 34,90) + DisneyPlus + Star+ (R$ 55,90) + Prime Vídeo (R$14,90)"
           projectLink="/google.com" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
