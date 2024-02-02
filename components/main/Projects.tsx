@@ -17,13 +17,13 @@ const Projects = () => {
           projectLink="/google.com" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
-          src="/CardImage.png"
+          src="/chatgpt.png"
           title="ChatGPT Plus - R$ 34,90"
           description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
           projectLink="/google.com" // Substitua com o link real para o segundo projeto
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="/Canvapro.png"
           title="Canva Pro - R$ 6,90"
           description="Tenha acesso ao Canva Pro (R$ 34,90)"
           projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
