@@ -36,7 +36,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/Canvapro.png"
-          title="Monte seu produto via Whatsapp comigo"
+          title="Monte seu plano via Whatsapp Comigo"
           description="Compre o acesso das plataformas de stream separadamente comigo, clique no botão abaixo."
           projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
         />
