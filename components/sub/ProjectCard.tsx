@@ -1,11 +1,7 @@
 import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
-import {
-  slideInFromLeft,
-  slideInFromRight,
-  slideInFromTop,
-} from "@/utils/motion";
+import { slideInFromLeft, slideInFromRight, slideInFromTop } from "@/utils/motion";
 
 interface Props {
   src: string;
@@ -30,9 +26,12 @@ const ProjectCard = ({ src, title, description, projectLink }: Props) => {
         <p className="mt-2 text-gray-300">{description}</p>
 
         {/* Botão para acessar o projeto */}
-       <motion.a
+        <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+          href={projectLink}  // Adicione o link do projeto ao href
+          target="_blank"
+          rel="noopener noreferrer"
         >
           Economize 70% AGORA
         </motion.a>
