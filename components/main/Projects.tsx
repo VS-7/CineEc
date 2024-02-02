@@ -9,9 +9,9 @@ const Projects = () => {
       </h1>
       <div className="flex flex-col md:flex-row gap-4 md:gap-10 px-4 md:px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/Combo.png"
+          title="Combo Mensal - R$ 29,90"
+          description="HBO Max(R$ 34,90) + DisneyPlus + Star+ (R$ 55,90) + Prime Vídeo (R$14,90)"
         />
         <ProjectCard
           src="/CardImage.png"
