@@ -23,12 +23,14 @@ const ProjectCard = ({ src, title, description, projectLink }: Props) => {
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
         <p className="mt-2 text-gray-300">{description}</p>
 
-        {/* Botão para acessar o projeto */}
-       
-        <a href={projectLink} target="_blank" rel="noopener noreferrer">
-          <button className="mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-            Economize 70% AGORA
-          </button>
+        {/* Link para acessar o projeto */}
+        <a
+          href={projectLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded cursor-pointer"
+        >
+          Economize 70% AGORA
         </a>
       </div>
     </div>
