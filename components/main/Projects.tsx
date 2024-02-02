@@ -1,4 +1,4 @@
- import React from "react";
+import React from "react";
 import ProjectCard from "../sub/ProjectCard";
 
 const Projects = () => {
@@ -12,16 +12,19 @@ const Projects = () => {
           src="/Combo.png"
           title="Combo Mensal - R$ 29,90"
           description="HBO Max(R$ 34,90) + DisneyPlus + Star+ (R$ 55,90) + Prime Vídeo (R$14,90)"
+          projectLink="/link-para-o-seu-projeto1" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
           src="/CardImage.png"
           title="Interactive Website Cards"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          projectLink="/link-para-o-seu-projeto2" // Substitua com o link real para o segundo projeto
         />
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Website"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
         />
       </div>
     </div>
@@ -29,4 +32,3 @@ const Projects = () => {
 };
 
 export default Projects;
-
