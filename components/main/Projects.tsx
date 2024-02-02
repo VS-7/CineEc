@@ -12,21 +12,27 @@ const Projects = () => {
       <div className="flex flex-col md:flex-row gap-4 md:gap-10 px-4 md:px-10">
         <ProjectCard
           src="/Combo.png"
-          title="Combo Mensal - R$ 29,90"
+          title="Combo Plus Mensal - R$ 29,90"
           description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
           projectLink="/google.com" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
-          src="/chatgpt.png"
-          title="ChatGPT Plus - R$ 34,90"
-          description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
-          projectLink="/google.com" // Substitua com o link real para o segundo projeto
+          src="/Combo.png"
+          title="Combo Compartilhado Mensal - R$ 16,90"
+          description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
+          projectLink="/google.com" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
           src="/Canvapro.png"
           title="Canva Pro - R$ 6,90"
           description="Tenha acesso ao Canva Pro (R$ 34,90)"
           projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
+        />
+        <ProjectCard
+          src="/chatgpt.png"
+          title="ChatGPT Plus - R$ 34,90"
+          description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
+          projectLink="/google.com" // Substitua com o link real para o segundo projeto
         />
         <ProjectCard
           src="/Canvapro.png"
