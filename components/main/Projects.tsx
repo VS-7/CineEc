@@ -32,7 +32,7 @@ const Projects = () => {
           src="/chatgpt.png"
           title="ChatGPT Plus - R$ 34,90"
           description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
-          projectLink="/google.com" // Substitua com o link real para o segundo projeto
+          projectLink="https://cine-economico.pay.yampi.com.br/r/NFMAFMUYMD" // Substitua com o link real para o segundo projeto
         />
         <ProjectCard
           src="/whatsapp.png"
