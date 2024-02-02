@@ -28,6 +28,12 @@ const Projects = () => {
           description="Tenha acesso ao Canva Pro (R$ 34,90)"
           projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
         />
+        <ProjectCard
+          src="/Canvapro.png"
+          title="Monte seu produto via Whatsapp comigo"
+          description="Compre o acesso das plataformas de stream separadamente comigo, clique no botão abaixo."
+          projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
+        />
       </div>
     </div>
   );
