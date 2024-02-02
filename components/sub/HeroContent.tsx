@@ -51,6 +51,7 @@ const HeroContent = () => {
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+          href="#about-me"
         >
           CLIQUE PARA ECONOMIZAR 70%
         </motion.a>
