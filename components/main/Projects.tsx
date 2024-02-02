@@ -20,7 +20,7 @@ const Projects = () => {
           src="/Combo.png"
           title="Combo Compartilhado Mensal - R$ 16,90"
           description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
-          projectLink="/google.com" // Substitua com o link real para o primeiro projeto
+          projectLink="https://cine-economico.pay.yampi.com.br/checkout?skipToCheckout=1&tokenReference=K57J4VZNK1" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
           src="/Canvapro.png"
