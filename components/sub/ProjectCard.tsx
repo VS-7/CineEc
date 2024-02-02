@@ -1,5 +1,11 @@
 import Image from "next/image";
 import React from "react";
+import { motion } from "framer-motion";
+import {
+  slideInFromLeft,
+  slideInFromRight,
+  slideInFromTop,
+} from "@/utils/motion";
 
 interface Props {
   src: string;
