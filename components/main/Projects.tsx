@@ -26,13 +26,7 @@ const Projects = () => {
           src="/Canvapro.png"
           title="Canva Pro - R$ 6,90"
           description="Tenha acesso ao Canva Pro (R$ 34,90)"
-          projectLink="/link-para-o-seu-projeto3" // Substitua com o link real para o terceiro projeto
-        />
-        <ProjectCard
-          src="/chatgpt.png"
-          title="ChatGPT Plus - R$ 34,90"
-          description="Tenha acesso ao ChatGPT 4.0 (R$ 100,00)."
-          projectLink="https://cine-economico.pay.yampi.com.br/r/NFMAFMUYMD" // Substitua com o link real para o segundo projeto
+          projectLink="https://cine-economico.pay.yampi.com.br/r/NFMAFMUYMD" // Substitua com o link real para o terceiro projeto
         />
         <ProjectCard
           src="/whatsapp.png"
