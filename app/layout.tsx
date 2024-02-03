@@ -8,7 +8,7 @@ import Footer from "@/components/main/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "VsEcom",
+  title: "Cinema Economico",
   description: "Obtenha acesso as melhores plataformas de stream",
 };
 
