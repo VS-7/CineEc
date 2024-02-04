@@ -80,7 +80,7 @@ const SecondProjectCard = () => {
           COMPRAR
         </a>
       </div>
-    </div>
+    
     <div className="flex-1 relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
       <Image
         src={project3.src}
