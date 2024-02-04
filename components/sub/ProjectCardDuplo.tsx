@@ -8,7 +8,7 @@ interface Props {
   projectLink: string;
 }
 
-const ProjectCardDublo = ({ src, title, description, projectLink }: Props) => {
+const ProjectCardDuplo = ({ src, title, description, projectLink }: Props) => {
   return (
     <div className="flex flex-wrap gap-4">
       {/* Primeiro Card */}
