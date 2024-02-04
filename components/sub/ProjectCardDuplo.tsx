@@ -45,7 +45,7 @@ const ProjectCardDuplo = ({ src, title, description, projectLink }: Props) => {
 const SecondProjectCard = () => {
   // Dados de exemplo para o segundo projeto
   const project2 = {
-    src: "caminho/para/imagens/projeto2.jpg",
+    src: "disneystar.png",
     title: "Disney+ e Star+ - R$ 9,90",
     description: "Tenha acesso a plataforma Disney+ e Star+(R$ 55,90)",
     projectLink: "https://link-do-projeto-2.com",
