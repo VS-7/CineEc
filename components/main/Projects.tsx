@@ -15,7 +15,7 @@ const Projects = () => {
           src="/hbo.png"
           title="HBO Max - R$ 7,90"
           description="Tenha acesso a plataforma HBO Max(R$ 34,90)"
-          projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
+          projectLink="https://cine-economico.pay.yampi.com.br/r/QETWD0QDCY" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCardDuplo
           src="/prime.png"
