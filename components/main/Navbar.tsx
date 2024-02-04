@@ -36,12 +36,6 @@ const Navbar = () => {
 
         <div className="flex flex-row gap-5">
           {Socials.map((social) => (
-            <a
-              href={social.link} // Adicione a propriedade link ao objeto Social
-              target="_blank"
-              rel="noopener noreferrer"
-              key={social.name}
-            >
               <Image
                 src={social.src}
                 alt={social.name}
