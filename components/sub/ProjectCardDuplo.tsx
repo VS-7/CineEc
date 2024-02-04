@@ -46,8 +46,8 @@ const SecondProjectCard = () => {
   // Dados de exemplo para o segundo projeto
   const project2 = {
     src: "disneystar.png",
-    title: "Disney+ e Star+ - R$ 9,90",
-    description: "Tenha acesso a plataforma Disney+ e Star+(R$ 55,90)",
+    title: "Disney+ e Star+ -   R$ 9,90",
+    description: "Tenha acesso as plataformas(R$ 55,90)",
     projectLink: "https://link-do-projeto-2.com",
   };
 
