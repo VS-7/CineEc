@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="flex flex-col md:flex-row gap-4 md:gap-10 px-4 md:px-10">
          <ProjectCardDuplo
-          src="/Combo.png"
+          src="/hbo.png"
           title="HBO Max - R$ 7,90"
           description="Tenha acesso a plataforma HBO Max(R$ 34,90)"
           projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
