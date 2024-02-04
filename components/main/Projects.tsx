@@ -36,12 +36,6 @@ const Projects = () => {
           projectLink="https://cine-economico.pay.yampi.com.br/r/N0X5W6776M" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
-          src="/Canvapro.png"
-          title="Canva Pro - R$ 6,90"
-          description="Tenha acesso ao Canva Pro (R$ 34,90)"
-          projectLink="https://cine-economico.pay.yampi.com.br/r/NFMAFMUYMD" // Substitua com o link real para o terceiro projeto
-        />
-        <ProjectCard
           src="/whatsapp.png"
           title="Monte seu plano via Whatsapp Comigo"
           description="Compre o acesso das plataformas de stream separadamente comigo, clique no botão abaixo."
