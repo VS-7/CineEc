@@ -13,13 +13,13 @@ const Projects = () => {
       <div className="flex flex-col md:flex-row gap-4 md:gap-10 px-4 md:px-10">
          <ProjectCardDuplo
           src="/hbo.png"
-          title="HBO Max - R$ 7,90"
+          title="R$ 7,90"
           description="Tenha acesso a plataforma HBO Max(R$ 34,90)"
           projectLink="https://cine-economico.pay.yampi.com.br/r/QETWD0QDCY" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCardDuplo
           src="/prime.png"
-          title="Prime Vídeo - R$ 6,90"
+          title="R$ 6,90"
           description="Tenha acesso a plataforma Prime Vídeo(R$ 14,90)"
           projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
         />
