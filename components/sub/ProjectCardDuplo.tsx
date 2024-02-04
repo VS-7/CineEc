@@ -31,7 +31,7 @@ const ProjectCardDuplo = ({ src, title, description, projectLink }: Props) => {
             rel="noopener noreferrer"
             className="block mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded cursor-pointer"
           >
-            ADQUIRIR AGORA
+            COMPRAR
           </a>
         </div>
       </div>
@@ -56,7 +56,7 @@ const ProjectCardDuplo = ({ src, title, description, projectLink }: Props) => {
             rel="noopener noreferrer"
             className="block mt-4 bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded cursor-pointer"
           >
-            ADQUIRIR AGORA
+            COMPRAR
           </a>
         </div>
       </div>
