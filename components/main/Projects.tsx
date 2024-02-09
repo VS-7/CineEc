@@ -8,7 +8,7 @@ const Projects = () => {
   return (
     <div className="flex flex-col items-center justify-center py-10 md:py-20" id="projects">
       <h1 className="text-2xl md:text-4xl font-semibold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500 py-10">
-        <center>Todos os serviços possuem 30 dias de Garantia Total</center>
+        <center>Ao comprar qualquer serviço, você terá acesso durante 30 dias</center>
       </h1>
       <div className="flex flex-col md:flex-row gap-4 md:gap-10 px-4 md:px-10">
          <ProjectCardDuplo
