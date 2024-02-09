@@ -84,7 +84,7 @@ export const Skill_data = [
     {
       name: "Whatsapp",
       src: "/whatsapp.svg",
-      link: "",
+      link: "https://api.whatsapp.com/send?phone=5533999123315&text=Quero%20montar%20meu%20plano!",
     },
   ];
   
