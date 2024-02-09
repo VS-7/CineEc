@@ -19,7 +19,7 @@ const Projects = () => {
         />
        <ProjectCard
           src="/disneystar.png"
-          title="Disney+ e Star+ - R$ 16,90"
+          title="Disney+ e Star+ - R$ 15,90"
           description="Tenha acesso as plataformas DisneyPlus + Star+ (R$ 55,90) "
           projectLink="https://cine-economico.pay.yampi.com.br/r/3XCJGX6CO0" // Substitua com o link real para o primeiro projeto
         />
