@@ -34,7 +34,7 @@ const Navbar = () => {
           </div>
         </div>
 
-       <div className="flex flex-row gap-5">
+           <div className="flex flex-row gap-5">
         {Socials.map((social) => (
           <a
             href={social.link} // Adicione a propriedade link ao objeto Social
