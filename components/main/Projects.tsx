@@ -36,6 +36,12 @@ const Projects = () => {
           projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
+          src="/projetor.png"
+          title="Projetor Portátil 4K MagCubic™- R$ 447,30"
+          description="Projeta uma tela gigante de até 100 polegadas com qualidade Full HD gastando 10x menos "
+          projectLink="https://cine-economico.pay.yampi.com.br/r/6W0XY5AOO6" // Substitua com o link real para o primeiro projeto
+        />
+        <ProjectCard
           src="/whatsapp.png"
           title="Monte seu plano via Whatsapp Comigo"
           description="Compre o acesso das plataformas de streaming separadamente comigo, clique no botão abaixo."
