@@ -45,10 +45,10 @@ const ProjectCardDuplo = ({ src, title, description, projectLink }: Props) => {
 const SecondProjectCard = () => {
   // Dados de exemplo para o segundo projeto
   const project2 = {
-    src: "disneystar.png",
-    title: "R$ 15,90",
-    description: "Tenha acesso as plataformas(R$ 55,90)",
-    projectLink: "https://cine-economico.pay.yampi.com.br/r/3XCJGX6CO0",
+    src: "prime.png",
+    title: "R$ 6,90",
+    description: "Tenha acesso a plataforma(R$ 14,90)",
+    projectLink: "https://cine-economico.pay.yampi.com.br/r/Q1GU3TD5JN",
   };
 
   return (
