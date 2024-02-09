@@ -34,24 +34,25 @@ const Navbar = () => {
           </div>
         </div>
 
-           <div className="flex flex-row gap-5">
+               <div className="flex flex-row gap-5 items-center"> {/* Adicione 'items-center' aqui */}
         {Socials.map((social) => (
           <a
-            href={social.link} // Adicione a propriedade link ao objeto Social
+            href={social.link}
             target="_blank"
             rel="noopener noreferrer"
             key={social.name}
-            className="w-6 h-6 md:w-8 md:h-8" // Adicione esta linha
+            className="w-6 h-6 md:w-8 md:h-8 flex items-center justify-center" // Adicione 'flex items-center justify-center' aqui
           >
             <Image
               src={social.src}
               alt={social.name}
-              layout="fill" // Adicione esta linha
-              objectFit="contain" // Adicione esta linha
+              layout="fill"
+              objectFit="contain"
             />
           </a>
         ))}
       </div>
+
       </div>
     </div>
   );
