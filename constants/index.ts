@@ -86,11 +86,6 @@ export const Skill_data = [
       src: "/whatsapp.svg",
       link: "",
     },
-    {
-      name: "Instagram",
-      src: "/instagram.svg",
-      link: "",
-    },
   ];
   
   
