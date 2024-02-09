@@ -17,11 +17,11 @@ const Projects = () => {
           description="Tenha acesso a plataforma HBO Max(R$ 34,90)"
           projectLink="https://cine-economico.pay.yampi.com.br/r/QETWD0QDCY" // Substitua com o link real para o primeiro projeto
         />
-        <ProjectCardDuplo
-          src="/prime.png"
-          title="R$ 6,90"
-          description="Tenha acesso a plataforma Prime Vídeo(R$ 14,90)"
-          projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
+       <ProjectCard
+          src="/disneystar.png"
+          title="Disney+ e Star+ - R$ 16,90"
+          description="Tenha acesso as plataformas DisneyPlus + Star+ (R$ 55,90) "
+          projectLink="https://cine-economico.pay.yampi.com.br/r/N0X5W6776M" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
           src="/Combo.png"
