@@ -25,20 +25,20 @@ const Projects = () => {
         />
         <ProjectCard
           src="/Combo.png"
-          title="Combo Plus Mensal - R$ 29,90"
-          description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
-          projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
-        />
-        <ProjectCard
-          src="/Combo.png"
           title="Combo Compartilhado Mensal - R$ 16,90"
           description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
           projectLink="https://cine-economico.pay.yampi.com.br/r/N0X5W6776M" // Substitua com o link real para o primeiro projeto
         />
         <ProjectCard
+          src="/Combo.png"
+          title="Combo Plus Mensal - R$ 29,90"
+          description="Tenha acesso as plataformas HBO Max(R$ 34,90)  | DisneyPlus + Star+ (R$ 55,90)  | Prime Vídeo (R$14,90) "
+          projectLink="https://cine-economico.pay.yampi.com.br/r/K57J4VZNK1" // Substitua com o link real para o primeiro projeto
+        />
+        <ProjectCard
           src="/whatsapp.png"
           title="Monte seu plano via Whatsapp Comigo"
-          description="Compre o acesso das plataformas de stream separadamente comigo, clique no botão abaixo."
+          description="Compre o acesso das plataformas de streaming separadamente comigo, clique no botão abaixo."
           projectLink="https://api.whatsapp.com/send?phone=5533999123315&text=Quero%20montar%20meu%20plano!" // Substitua com o link real para o terceiro projeto
         />
       </div>
